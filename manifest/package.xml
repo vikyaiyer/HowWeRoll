@@ -22,6 +22,7 @@
     </types>
     <types>
         <members>MaintenanceRequestHelper</members>
+        <members>WarehouseCalloutService</members>
         <name>ApexClass</name>
     </types>
     
