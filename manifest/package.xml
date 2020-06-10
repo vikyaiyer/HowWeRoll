@@ -16,6 +16,14 @@
         <members>Product2-Product %28HowWeRoll%29 Layout</members>
         <name>Layout</name>
     </types>
+    <types>
+        <members>MaintenanceRequest</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>MaintenanceRequestHelper</members>
+        <name>ApexClass</name>
+    </types>
     
     <version>47.0</version>
 </Package>
