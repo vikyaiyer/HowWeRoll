@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0052v00000ecI5kAAE",
+    "createdByName": "Vignesh Kumar",
+    "createdDate": "2020-02-14T05:14:16.000Z",
+    "fileName": "triggers/MaintenanceRequest.trigger",
+    "fullName": "MaintenanceRequest",
+    "id": "01q2v000001d0NMAAY",
+    "lastModifiedById": "0052v00000ecI5kAAE",
+    "lastModifiedByName": "Vignesh Kumar",
+    "lastModifiedDate": "2020-02-14T05:14:16.000Z",
+    "manageableState": "unmanaged",
+    "type": "ApexTrigger"
+  }
+}
