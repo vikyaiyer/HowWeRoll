@@ -1,4 +1,5 @@
 public with sharing class WarehouseCalloutService {
+    // TODO: CallOut External System to update Product details in Salesforce
     private static final String WAREHOUSE_URL = 'https://th-superbadge-apex.herokuapp.com/equipment';
     @future(callout=true)
     public static void runWarehouseEquipmentSync() {
