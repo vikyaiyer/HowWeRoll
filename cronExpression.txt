@@ -1,0 +1,4 @@
+//ToDo: Run this piece of code in Execute anonymous window of developer console
+WarehouseSyncSchedule obj = new WarehouseSyncSchedule();
+String sch = '0 0 1 * * ?';
+System.schedule('WarehouseSyncSchedule', sch, obj);
