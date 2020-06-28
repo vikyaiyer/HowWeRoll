@@ -1,6 +1,6 @@
-global class WarehouseCalloutServiceMock implements HttpCalloutMock{
+public class WarehouseCalloutServiceMock implements HttpCalloutMock{
     // implement http mock callout
-     global HTTPResponse respond(HTTPRequest request) {
+     public HTTPResponse respond(HTTPRequest request) {
         // Create a fake response
         HttpResponse response = new HttpResponse();
         response.setHeader('Content-Type', 'application/json');
