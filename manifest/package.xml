@@ -24,6 +24,7 @@
         <members>MaintenanceRequestHelper</members>
         <members>WarehouseCalloutService</members>
         <members>WarehouseSyncSchedule</members>
+        <members>WarehouseCalloutServiceMock</members>
         <name>ApexClass</name>
     </types>
     
