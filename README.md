@@ -1,6 +1,6 @@
 # Apex Specialist Superbadge
-## HowWeRoll rentals
-Scenario description from https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex
+## Scenario description
+HowWeRoll rentals - from https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_apex
 ## Dev, Build and Test
 
 ## Resources
